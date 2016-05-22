@@ -1,0 +1,10 @@
+Movie,Adventure,The Martian,5 
+Movie,Romance,Carol,4 
+Movie,Adventure,Inside Out,4
+Movie,Action,Creed,5 
+Movie,Action,Mad Max,5
+Music,Classical Music,Hello,5 
+Music,Classical Music,Can't Feel My Face,4 
+Music,Latin Music,Like I'm Gonna Lose You,5 
+Music,World Music,Good For You,3 
+Music,Blues,What Do You Mean?,5 

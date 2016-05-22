@@ -1,0 +1,23 @@
+C:\Users\H\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\H\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\H\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\H\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\H\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\H\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\H\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\H\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\H\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\H\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Form2.resources
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\obj\Debug\Assignment2.Form2.resources
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\H\Desktop\WebSer C#\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\H\Desktop\Sheridan\semester4\Web Services C#\assignments\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\H\Desktop\Sheridan\semester4\Web Services C#\assignments\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\H\Desktop\Sheridan\semester4\Web Services C#\assignments\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
